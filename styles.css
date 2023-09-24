@@ -3,7 +3,6 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  /*   justify-content:center; */
   align-items: center;
 }
 
@@ -41,7 +40,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /*   background-color: red; */
 }
 
 .boom::before {
